@@ -1,6 +1,7 @@
 /**
  * Created by Praktika on 10.11.2016.
  */
+//ping will not be invoked a second time.
 public class exercise52 {
     public static void zoop(String fred, int bob) {
         System.out.println(fred);
